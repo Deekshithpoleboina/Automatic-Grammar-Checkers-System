@@ -1,7 +1,5 @@
 # Automatic-Grammar-Checkers-System
 
-# ✅ CorrectLy - The English Text Corrector
-
 **CorrectLy** is an intelligent NLP-powered spelling and grammar correction tool. It accepts raw text or `.docx` files, and returns corrected versions with improved grammar, punctuation, and structure. Built using Python and Flask, CorrectLy leverages a suite of Natural Language Processing libraries to detect and fix errors in real time.
 
 ---
@@ -51,13 +49,3 @@ The following types of corrections are implemented through modular rule-based or
 | **Article Usage**           | `I am looking at boy.`                    | `I am looking at the boy.`               |
 
 ---
-
-## 🚀 Getting Started
-
-### 📦 Installation
-
-1. **Clone the repository**:
-
-```bash
-git clone https://github.com/yourusername/CorrectLy.git
-cd CorrectLy
